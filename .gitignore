@@ -1,0 +1,4 @@
+__pycache__
+clustermodels/__pycache__
+clustermodels/builder
+*.tex
